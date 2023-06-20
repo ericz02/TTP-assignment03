@@ -1,0 +1,23 @@
+{
+  "name": "ttp-assignment03",
+  "version": "1.0.0",
+  "description": "## Part 1: Basic Unit Testing",
+  "main": "mathFunctions.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericz02/TTP-assignment03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericz02/TTP-assignment03/issues"
+  },
+  "homepage": "https://github.com/ericz02/TTP-assignment03#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
