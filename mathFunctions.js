@@ -14,4 +14,4 @@ function divide(a, b) {
     return (b === 0) ? "Error: Cannot divide by zero" : a / b;
 }
 
-module.exports = {add, subtract, multiply, divide}
+module.exports = { add, subtract, multiply, divide }
