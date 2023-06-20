@@ -1,6 +1,6 @@
 // two pointer approach algorithm
 
-function maxArea(height) {
+function containMostWater(height) {
     // initialize the maximum area, left pointer, and right pointer.
     let maxArea = 0;
     let left = 0;
@@ -26,4 +26,4 @@ function maxArea(height) {
     return maxArea;
 }
 
-module.exports = maxArea;
+module.exports = containMostWater;
